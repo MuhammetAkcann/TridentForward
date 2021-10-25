@@ -2,7 +2,7 @@
 
 1- git clone https://github.com/MuhammetAkcann/TridentForward/
 
-2- cd TridenForward
+2- cd TridentForward
 
 3- git clone https://github.com/jinfagang/DCNv2_latest 
 
