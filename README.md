@@ -15,7 +15,11 @@
 7- python main.py (you can specify input file by changing line 84)
 
 prerequrties:
+
 pretrainedmodels==0.7.4
+
 torchvision==0.9.1
+
 torch==1.8.1
+
 tqdm
