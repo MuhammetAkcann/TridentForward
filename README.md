@@ -23,3 +23,5 @@ torchvision==0.9.1
 torch==1.8.1
 
 tqdm
+
+trained model: https://drive.google.com/file/d/1LcSsCWGLkjmq5o08yhMbSU6DjCGugmRw
